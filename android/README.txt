@@ -1,1 +1,0 @@
-This archive omits full android/ and ios/ platform folders. Run `flutter create .` in the project root to generate platform folders, then copy lib/ and pubspec.yaml before building.
